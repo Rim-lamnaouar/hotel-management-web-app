@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/hotel-management-web-app/static/css/main.51d5f803.css",
+    "main.js": "/hotel-management-web-app/static/js/main.aa03d56c.js",
+    "static/media/slider-1.jpg": "/hotel-management-web-app/static/media/slider-1.8962f15f63ff285cbb2c.jpg",
+    "static/media/img-0.jpg": "/hotel-management-web-app/static/media/img-0.8e7bc79bd7ed0032ffca.jpg",
+    "static/media/slider-2.jpg": "/hotel-management-web-app/static/media/slider-2.8e7bc79bd7ed0032ffca.jpg",
+    "static/media/about-us.png": "/hotel-management-web-app/static/media/about-us.2f491038337f7541dd0f.png",
+    "static/media/room-4.jpg": "/hotel-management-web-app/static/media/room-4.6fb6957da2e7b4f80c9f.jpg",
+    "static/media/room-7.jpg": "/hotel-management-web-app/static/media/room-7.4df9fe25c10bbe5ed016.jpg",
+    "static/media/blog-2.jpg": "/hotel-management-web-app/static/media/blog-2.e019f656837b493abebc.jpg",
+    "static/media/ava-4.jpg": "/hotel-management-web-app/static/media/ava-4.de1ea6630afadcee4938.jpg",
+    "static/media/remixicon.svg?t=1680703320261": "/hotel-management-web-app/static/media/remixicon.70a2c520013c3c5b5aff.svg",
+    "static/media/room-2.jpg": "/hotel-management-web-app/static/media/room-2.798c4d320ea94d31de58.jpg",
+    "static/media/room-3.jpg": "/hotel-management-web-app/static/media/room-3.580fb848af4a51c710f4.jpg",
+    "static/media/room-5.jpg": "/hotel-management-web-app/static/media/room-5.1d9b285ec1bbd541c102.jpg",
+    "static/media/make-room.jpg": "/hotel-management-web-app/static/media/make-room.673a35b4d5bcaf1ada6c.jpg",
+    "static/media/room-6.jpg": "/hotel-management-web-app/static/media/room-6.db4e3de8a84e4cbf7740.jpg",
+    "static/media/blog-3.jpg": "/hotel-management-web-app/static/media/blog-3.deae7781fcb791f7aa29.jpg",
+    "static/media/room-1.jpg": "/hotel-management-web-app/static/media/room-1.08ea675486cfc3df7de0.jpg",
+    "static/media/remixicon.eot?t=1680703320261": "/hotel-management-web-app/static/media/remixicon.84395c0272b9277a8dd4.eot",
+    "static/media/remixicon.ttf?t=1680703320261": "/hotel-management-web-app/static/media/remixicon.b44cfa02ce58f6eb1f8d.ttf",
+    "static/media/ava-1.jpg": "/hotel-management-web-app/static/media/ava-1.c185d7723fe40ec46830.jpg",
+    "static/media/ava-3.jpg": "/hotel-management-web-app/static/media/ava-3.1442075049ece43143f2.jpg",
+    "static/media/ava-2.jpg": "/hotel-management-web-app/static/media/ava-2.11e918c656d0c7851624.jpg",
+    "static/media/ava-5.jpg": "/hotel-management-web-app/static/media/ava-5.2e2184639e77210b9aa8.jpg",
+    "static/media/remixicon.woff?t=1680703320261": "/hotel-management-web-app/static/media/remixicon.9a029bb2b868444bd914.woff",
+    "static/media/remixicon.woff2?t=1680703320261": "/hotel-management-web-app/static/media/remixicon.0e8f9f369f20b858578c.woff2",
+    "static/media/blog-1.jpg": "/hotel-management-web-app/static/media/blog-1.eb8694d97bfb8d761cd1.jpg",
+    "static/media/slider-3.jpg": "/hotel-management-web-app/static/media/slider-3.f80222bdb88e4f93c204.jpg",
+    "static/media/slick.svg": "/hotel-management-web-app/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/hotel-management-web-app/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/hotel-management-web-app/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/hotel-management-web-app/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/hotel-management-web-app/index.html",
+    "main.51d5f803.css.map": "/hotel-management-web-app/static/css/main.51d5f803.css.map",
+    "main.aa03d56c.js.map": "/hotel-management-web-app/static/js/main.aa03d56c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51d5f803.css",
+    "static/js/main.aa03d56c.js"
+  ]
+}
