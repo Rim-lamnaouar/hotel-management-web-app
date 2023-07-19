@@ -1,0 +1,19 @@
+.payment label {
+  font-weight: 600;
+  color: #000d6b;
+}
+
+.payment button {
+  padding: 8px 15px;
+  border-radius: 5px;
+  background: #000d6b;
+  color: #fff;
+  border: none;
+  outline: none;
+}
+.payment button:hover{
+  background: #fff;
+  color: #000d6b;
+  border: 1px solid #000d6b;
+  transition: all 0.3s ease-in-out;
+}
