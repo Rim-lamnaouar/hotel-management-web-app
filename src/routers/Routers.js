@@ -6,7 +6,6 @@ import RoomListing from "../pages/RoomListing";
 import RoomDetails from "../pages/RoomDetails";
 import Blog from "../pages/Blog";
 import BlogDetails from "../pages/BlogDetails";
-import NotFound from "../pages/NotFound";
 import Contact from "../pages/Contact";
 import Login from '../pages/Login'
 import RegisterPage from '../pages/RegisterPage'
@@ -26,7 +25,6 @@ const Routers = () => {
       <Route path="/login" element={<Login /> } />
       <Route path="/register" element={<RegisterPage /> } />
       <Route path="/forget-password" element={<ForgetPasswordPage /> } />
-      <Route path="*" element={<NotFound />} />
     </Routes>
   );
 };
