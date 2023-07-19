@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hotel-management-web-app/static/css/main.51d5f803.css",
-    "main.js": "/hotel-management-web-app/static/js/main.aa03d56c.js",
+    "main.js": "/hotel-management-web-app/static/js/main.771a1bb3.js",
     "static/media/slider-1.jpg": "/hotel-management-web-app/static/media/slider-1.8962f15f63ff285cbb2c.jpg",
     "static/media/img-0.jpg": "/hotel-management-web-app/static/media/img-0.8e7bc79bd7ed0032ffca.jpg",
     "static/media/slider-2.jpg": "/hotel-management-web-app/static/media/slider-2.8e7bc79bd7ed0032ffca.jpg",
@@ -34,10 +34,10 @@
     "static/media/slick.woff": "/hotel-management-web-app/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/hotel-management-web-app/index.html",
     "main.51d5f803.css.map": "/hotel-management-web-app/static/css/main.51d5f803.css.map",
-    "main.aa03d56c.js.map": "/hotel-management-web-app/static/js/main.aa03d56c.js.map"
+    "main.771a1bb3.js.map": "/hotel-management-web-app/static/js/main.771a1bb3.js.map"
   },
   "entrypoints": [
     "static/css/main.51d5f803.css",
-    "static/js/main.aa03d56c.js"
+    "static/js/main.771a1bb3.js"
   ]
 }
