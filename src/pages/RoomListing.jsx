@@ -16,7 +16,7 @@ const RoomListing = () => {
   );
 
   return (
-    <Helmet title="Cars">
+    <Helmet title="Our Rooms">
       <CommonSection title="Our Rooms" />
 
       <section>
